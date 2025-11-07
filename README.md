@@ -13,7 +13,7 @@ This macro solves the problem by stripping away all non-essential formatting and
 ## Key Features
 
 - **Minimalist Output**: Removes all styling, comments, and metadata.
-- **Structure Preservation**: Intelligently keeps `rowspan` and `colspan` attributes to maintain complex table layouts.
+- **Structure Preservation**: Keeps `rowspan` and `colspan` attributes to maintain complex table layouts.
 - **Whitespace Cleaning**: Normalizes all spacing for a compact and clean output.
 - **Clipboard Ready**: The final HTML code is automatically copied to your clipboard for immediate use.
 
